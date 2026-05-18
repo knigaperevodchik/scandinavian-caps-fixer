@@ -7,6 +7,7 @@
 ## 🇺🇸 English
 
 An AutoHotkey script that fixes ALL-CAPS text from Scandinavian books when copying — converts it to normal capitalization automatically.
+> 🪟 **Windows only** — Linux and macOS are not supported.
 
 ### The problem
 
