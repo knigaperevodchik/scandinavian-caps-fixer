@@ -74,6 +74,13 @@ Kommissarien satt stilla och väntade
 
 No extra steps. Just copy and paste as usual.
 
+## 💰 Support the project
+
+If this script saved you time, you can say thanks:
+
+- TON / USDT (TON): `UQBWKwf2mgakNi4Ls2I6NNs1okcDyCxivdxxc22ypsMV4590`
+- USDT (TRC20): `TDdok5FgB6fJSXZrPzxnn7hMk4qREUZPJe`
+  
 ---
 
 ## 🇷🇺 Русский
@@ -145,6 +152,13 @@ Kommissarien satt stilla och väntade
 
 Никаких лишних действий. Просто копируете и вставляете как обычно.
 
+## 💰 Поддержать проект
+
+Если скрипт сэкономил время — можно сказать спасибо:
+
+- TON / USDT (TON): `UQBWKwf2mgakNi4Ls2I6NNs1okcDyCxivdxxc22ypsMV4590`
+- USDT (TRC20): `TDdok5FgB6fJSXZrPzxnn7hMk4qREUZPJe`
+
 ---
 
 ## 🇨🇳 中文
@@ -215,3 +229,10 @@ Kommissarien satt stilla och väntade
 ```
 
 无需额外操作，像平时一样复制粘贴即可。
+
+## 💰 支持项目
+
+如果这个脚本节省了您的时间，欢迎打赏：
+
+- TON / USDT (TON): `UQBWKwf2mgakNi4Ls2I6NNs1okcDyCxivdxxc22ypsMV4590`
+- USDT (TRC20): `TDdok5FgB6fJSXZrPzxnn7hMk4qREUZPJe`
